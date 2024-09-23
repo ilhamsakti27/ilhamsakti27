@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ilham</h1>
 
-Fresh Graduate Information Technology with  specialization in Software Development. Have experience building web-based and mobile-based applications. Skilled in JavaScript, VueJS, ReactJS, Android, and SQL and integration of AI into applications. Passionate about team collaboration to solve real problems through the implementation of maintainable, measurable, and testable technology.
+A fresh graduate of Information Technology with a strong foundation in software development, databases, and the Internet of Things (IoT). Through internships, academic projects, and personal experiences, it has honed my skills in designing and building device software-based solutions using Python, JavaScript, SQL, Cloud Computing, Linux, Mobile Android, and microcontrollers to solve real problems. With my strong understanding and experience, I am eager to contribute to creating innovative solutions through the application of technologies that are maintainable, measurable, testable, and impactful.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
